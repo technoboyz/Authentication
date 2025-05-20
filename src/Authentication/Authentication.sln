@@ -1,0 +1,30 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.36105.23
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Techno.Authentication", "Techno.Authentication\Techno.Authentication.csproj", "{3235B097-428A-4B7A-9EF7-D2C9A9E39D76}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Techno.Authentication.WebApi", "..\..\samples\Techno.Authentication.WebApi\Techno.Authentication.WebApi.csproj", "{F2B5FF09-77E2-496B-824D-76D001326EAF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3235B097-428A-4B7A-9EF7-D2C9A9E39D76}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3235B097-428A-4B7A-9EF7-D2C9A9E39D76}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3235B097-428A-4B7A-9EF7-D2C9A9E39D76}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3235B097-428A-4B7A-9EF7-D2C9A9E39D76}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F2B5FF09-77E2-496B-824D-76D001326EAF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F2B5FF09-77E2-496B-824D-76D001326EAF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F2B5FF09-77E2-496B-824D-76D001326EAF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F2B5FF09-77E2-496B-824D-76D001326EAF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0FC11745-1129-4A96-A2BA-040F273A18E1}
+	EndGlobalSection
+EndGlobal

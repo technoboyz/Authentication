@@ -1,0 +1,6 @@
+@Techno.Authentication.WebApi_HostAddress = http://localhost:5276
+
+GET {{Techno.Authentication.WebApi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
